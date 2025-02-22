@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/home-assistant:stable
+m.daocloud.io/docker.io/library/busybox
