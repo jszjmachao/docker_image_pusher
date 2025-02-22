@@ -2,6 +2,7 @@
 # m.daocloud.io/docker.io/homeassistant/home-assistant
 # lscr.io/linuxserver/plex:latest
 # lscr.io/linuxserver/transmission:latest
-lscr.io/linuxserver/jellyfin
-lscr.io/linuxserver/emby
-lscr.io/linuxserver/qbittorrent
+# lscr.io/linuxserver/jellyfin
+# lscr.io/linuxserver/emby
+# lscr.io/linuxserver/qbittorrent
+public.ecr.aws/nginx/nginx:1.27-alpine3.21-slim
