@@ -1,3 +1,7 @@
 # m.daocloud.io/docker.io/library/busybox
 # m.daocloud.io/docker.io/homeassistant/home-assistant
-lscr.io/linuxserver/plex:latest
+# lscr.io/linuxserver/plex:latest
+lscr.io/linuxserver/transmission:latest
+lscr.io/linuxserver/jellyfin:latest
+lscr.io/linuxserver/emby:latest
+lscr.io/linuxserver/qbittorrent:latest
