@@ -7,4 +7,5 @@
 # lscr.io/linuxserver/qbittorrent
 # public.ecr.aws/nginx/nginx:1.27-alpine3.21-slim
 # public.ecr.aws/docker/library/mysql:oracle
-docker.cmliussss.net/teddysun/kms
+# docker.cmliussss.net/teddysun/kms
+docker.cmliussss.net/redis
