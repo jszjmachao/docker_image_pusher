@@ -6,4 +6,5 @@
 # lscr.io/linuxserver/emby
 # lscr.io/linuxserver/qbittorrent
 # public.ecr.aws/nginx/nginx:1.27-alpine3.21-slim
-public.ecr.aws/docker/library/mysql:oracle
+# public.ecr.aws/docker/library/mysql:oracle
+proxy.1panel.live/teddysun/kms
